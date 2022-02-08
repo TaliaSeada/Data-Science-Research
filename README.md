@@ -20,7 +20,7 @@ PCA (Principal Component Analysis): <br>
 In order to create a compact model, we would like to reduce the dimensions by using the PCA method from sklearn and train again the models over the reduced train set.  By using PCA we make the models compact but with a high score, mostly we will see a slightly decrease of the accuracy score. <br>
 
 <b> The second part </b> of this project is about the Harnessing Machine Learning for interpersonal physical alignment project. <br>
-
+Article about the second part of the project: <br>
 https://github.com/TaliaSeada/Harnessing_Machine_Learning-for_interpersonal_physical_alignment/blob/main/Harnessing%20Machine%20Learning%20for%20interpersonal%20physical%20alignment..pdf <br>
 
 While loading the data to the notebook I added a labels column by using the file's name, when the Alone file was added I merged the data with the Right-Hand data to get a balanced data set. Then separated the left hand from the right hand and merged them by their Time column (they both were taken at the same time). At last, I recreated the data set columns by adding r_ to the right hand's columns, and l_ to the left hand's columns. <br>

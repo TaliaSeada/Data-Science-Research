@@ -6,7 +6,8 @@ In this project we have 4 notebooks.
 4. In this notebook we worked on the Harnessing Machine Learning for interpersonal physical alignment project. 
 
 <b> The first part </b> of this project is about three classification notebooks.
-The first notebook is about the improvement of the classification notebook from the last semester by using the Ensemble Learning methods and PCA (Principal Component Analysis).
+The first notebook is about the improvement of the classification notebook from the last semester by using the Ensemble Learning methods and PCA (Principal Component Analysis). <br> 
+Last semester notebook: https://github.com/TaliaSeada/Intro_To_Data_Science_Project <br>
 The second notebook is about multiclass classification of the FMNIST data set, which was arranged as a csv file, in which every row represented an image by giving us the values of each pixel in an array.
 The third notebook is about binary classification of the DOGS VS CATS data set, we worked with pictures that we made into a numpy array.  
 The Ensemble Learning methods I used were:
